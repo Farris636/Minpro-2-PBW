@@ -229,8 +229,7 @@
 
 
 # Full Page
-<img width="1920" height="2686" alt="image" src="https://github.com/user-attachments/assets/3d320f11-2fa4-496c-b6ca-69ae0f7e14a0" />
-
+![Navabr](img/Fullscreen.png)
 
 
 
