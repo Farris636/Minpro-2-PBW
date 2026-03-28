@@ -6,7 +6,7 @@
 ## Struktur Section & Penjelasan Code
 
 ### 1. Navbar
-<img width="1909" height="77" alt="image" src="https://github.com/user-attachments/assets/55430173-ba75-4c15-94e1-424685a2b8b0" />
+![Navabr](img/Navbar.png)
 
 📌 Fitur:
 * Navigasi ke Home, About Me, dan Certificates
@@ -46,7 +46,9 @@
 ```
 
 ### 2. Hero Section
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/17f12691-2fdc-4ff2-85ae-b71eb71adf46" />
+
+![Sertifikat](img/Hero .png)
+![Navabr](img/Hero Section.png)
 
 📌 Fungsi:
 * Menampilkan nama, profesi, deskripsi singkat, tombol CTA, dan foto profil.
