@@ -47,8 +47,7 @@
 
 ### 2. Hero Section
 
-![Sertifikat](img/Hero .png)
-![Navabr](img/Hero Section.png)
+![Navabr](img/HeroSection.png)
 
 📌 Fungsi:
 * Menampilkan nama, profesi, deskripsi singkat, tombol CTA, dan foto profil.
@@ -83,7 +82,7 @@
 ```
 
 ### 3. About Me Section
-<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e476eceb-313b-42e1-8993-3beb95f68a09" />
+![Sertifikat](img/About.png)
 
 📌 Fungsi:
 * Menampilkan deskripsi lengkap tentang diri.
@@ -114,7 +113,8 @@
 ```
 
 ### 4. Skills Section
-<img width="830" height="304" alt="image" src="https://github.com/user-attachments/assets/6da0ce81-e96d-4265-9c55-13ffb1408546" />
+
+![Sertifikat](img/Skill.png)
 
 📌 Fungsi:
 * Menampilkan keahlian dengan progress bar.
@@ -144,7 +144,8 @@
 ```
 
 ### 5. Experience Section
-<img width="816" height="291" alt="image" src="https://github.com/user-attachments/assets/719f8f7c-c161-410e-a84c-86db030f2ea2" />
+
+![Sertifikat](img/Experince.png)
 
 📌 Fungsi:
 * Menampilkan pengalaman kerja dalam bentuk card.
@@ -165,7 +166,8 @@
 ```
 
 ### 6. Certificates Section
-<img width="1919" height="806" alt="image" src="https://github.com/user-attachments/assets/8e7ffeb5-5741-4f00-ba54-5b7798658503" />
+
+![Sertifikat](img/Sertifikat.png)
 
 📌 Fungsi:
 * Menampilkan 3 sertifikat berbeda dalam bentuk card grid.
